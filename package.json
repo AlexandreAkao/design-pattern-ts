@@ -1,0 +1,41 @@
+{
+  "name": "rabiscando-padroes-de-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:strategy": "ts-node Comportamentais/Strategy",
+    "run:template-method": "ts-node Comportamentais/TemplateMethod",
+    "run:observer": "ts-node Comportamentais/Observer",
+    "run:state": "ts-node Comportamentais/State",
+    "run:adapter": "ts-node Estruturais/Adapter",
+    "run:decorator": "ts-node Estruturais/Decorator",
+    "run:facade": "ts-node Estruturais/Facade",
+    "run:factory-method": "ts-node Criacionais/FactoryMethod",
+    "run:abstract-factory": "ts-node Criacionais/AbstractFactory",
+    "run:builder": "ts-node Criacionais/Builder",
+    "run:chain-of-responsibility": "ts-node Comportamentais/ChainOfResponsibility",
+    "run:iterator": "ts-node Comportamentais/Iterator",
+    "run:command": "ts-node Comportamentais/Command",
+    "run:bridge": "ts-node Estruturais/Bridge",
+    "run:proxy": "ts-node Estruturais/Proxy",
+    "run:composite": "ts-node Estruturais/Composite",
+    "run:visitor": "ts-node Comportamentais/Visitor",
+    "run:memento": "ts-node Comportamentais/Memento",
+    "run:mediator": "ts-node Comportamentais/Mediator",
+    "run:singleton": "ts-node Criacionais/Singleton",
+    "run:prototype": "ts-node Criacionais/Prototype",
+    "run:flyweight": "ts-node Estruturais/Flyweight",
+    "run:interpreter": "ts-node Comportamentais/Interpreter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
