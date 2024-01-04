@@ -6,7 +6,7 @@ A collection of implementations of the main Typescript design patterns, as part 
 
 - [Factory Method](https://github.com/AlexandreAkao/design-pattern-ts/tree/main/Criacionais/FactoryMethod) Creates an instance of several derived classes
 - [Abstract Factory](https://github.com/AlexandreAkao/design-pattern-ts/tree/main/Criacionais/AbstractFactory) Creates an instance of several families of classes
-- [Builder](https://github.com/AlexandreAkao/design-pattern-**ts**/tree/main/Criacionais/Builder) Separates object construction from its representation
+- [Builder](https://github.com/AlexandreAkao/design-pattern-ts/tree/main/Criacionais/Builder) Separates object construction from its representation
 - [Singleton](https://github.com/AlexandreAkao/design-pattern-ts/tree/main/Criacionais/Singleton) A class of which only a single instance can exist
 - [Prototype](https://github.com/AlexandreAkao/design-pattern-ts/tree/main/Criacionais/Prototype) A fully initialized instance to be copied or cloned
 
